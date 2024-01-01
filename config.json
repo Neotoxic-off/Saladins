@@ -1,0 +1,1144 @@
+{
+    "characters": [
+        {
+            "name": "androxus",
+            "skins": [
+                "Dark Stalker",
+                "Godslayer",
+                "Defiant Fist",
+                "Default",
+                "Wraith",
+                "Exalted",
+                "Imperator",
+                "X",
+                "Stage 4",
+                "Dasher's Antlers",
+                "Screech",
+                "Cangaceiro",
+                "Huntsman",
+                "Steam Demon",
+                "Fallen",
+                "Battlesuit Godslayer",
+                "Steel Forged",
+                "Dragon Forged",
+                "Avatar",
+                "Modded",
+                "Eliminate",
+                "Grave Danger",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "ash",
+            "skins": [
+                "Battering Ram",
+                "Slug Shot",
+                "Fortress Breaker",
+                "Default",
+                "Hellion",
+                "Heirloom Crest",
+                "Ronin",
+                "Xeno-Buster",
+                "Street Style",
+                "Ska'drin",
+                "Scorned",
+                "Draconian Huntress",
+                "Golden"
+            ]
+        },
+        {
+            "name": "dredge",
+            "skins": [
+                "Scuttle",
+                "Hurl",
+                "Abyss Spike",
+                "Default",
+                "Buccaneer",
+                "Merrymaker",
+                "Omega",
+                "Bare Bones",
+                "Golden"
+            ]
+        },
+        {
+            "name": "saati",
+            "skins": [
+                "Second",
+                "Improvised",
+                "Window of Opportunity",
+                "Heads or Tails",
+                "Default",
+                "Hot Shot",
+                "Iced Out",
+                "Sea Queen",
+                "Crimson Tide",
+                "Blake Belladonna",
+                "Wings of Darkness",
+                "Wings of Carnage",
+                "Golden"
+            ]
+        },
+        {
+            "name": "ruckus",
+            "skins": [
+                "Alpha Bio",
+                "Flux Generator",
+                "Rocket Barrage",
+                "Aerial Assault",
+                "Default",
+                "Sprocket",
+                "B.E.T.A.",
+                "H.A.W.K.",
+                "Lil'Andy",
+                "Robo Force",
+                "Star Slayer",
+                "Pirate's Treasure",
+                "Eight Oceans",
+                "Golden"
+            ]
+        },
+        {
+            "name": "rei",
+            "skins": [
+                "Restraint",
+                "Focus",
+                "Default",
+                "Harvest",
+                "Beach Bunny",
+                "Pumpkin Patch",
+                "Class President",
+                "Valedictorian",
+                "Golden"
+            ]
+        },
+        {
+            "name": "raum",
+            "skins": [
+                "Earthsplitter",
+                "Subservience",
+                "Default",
+                "Subjugator",
+                "Abyssal Lord",
+                "Crypt Guardian",
+                "Undead Colossus",
+                "Kraumpus",
+                "R.O.M.",
+                "Heatsink",
+                "The Harlequin",
+                "Eternal Devilry",
+                "Golden"
+            ]
+        },
+        {
+            "name": "pip",
+            "skins": [
+                "Alpha Bio",
+                "Mega Potion",
+                "Catalyst",
+                "Combat Medic",
+                "Default",
+                "Sulfur",
+                "Tactical",
+                "Pandamonium",
+                "Raider",
+                "Love Specs",
+                "Arctic",
+                "Invader",
+                "Mad Scientist",
+                "Remix (Pepper)",
+                "Inventor",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "omen",
+            "skins": [
+                "Umbral Lance",
+                "Binary Void",
+                "Default",
+                "Recolor",
+                "SeasonPass",
+                "Golden"
+            ]
+        },
+        {
+            "name": "octavia",
+            "skins": [
+                "Display of Force",
+                "Asymmetric Warfare",
+                "Default",
+                "Commander",
+                "Maverick",
+                "Beachside",
+                "Freedom Fighter",
+                "Golden"
+            ]
+        },
+        {
+            "name": "nyx",
+            "skins": [
+                "Abyssal Breach",
+                "Subjugation",
+                "Default",
+                "Crimson Queen",
+                "Divine Matriarch",
+                "Golden"
+            ]
+        },
+        {
+            "name": "moji",
+            "skins": [
+                "Snack Attack",
+                "Boom Boom",
+                "Toot",
+                "Default",
+                "Plum",
+                "Dragonborn",
+                "Cuddly",
+                "PEEKABOO",
+                "Golden"
+            ]
+        },
+        {
+            "name": "Mal'Damba",
+            "skins": [
+                "Spirit's Chosen",
+                "Ripened Gourd",
+                "Wekono's Wrath",
+                "Default",
+                "Cursed",
+                "Defiler",
+                "Na'Vi",
+                "Prickly",
+                "Chancellor",
+                "Wickerman",
+                "Shadow Lord",
+                "Steel Forged",
+                "Dragon Forged",
+                "Shiro",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "makoa",
+            "skins": [
+                "Pluck",
+                "Half Shell",
+                "Leviathan",
+                "Default",
+                "Montego",
+                "Barrier Wreath",
+                "Plushy",
+                "Cuddly",
+                "Volcanic",
+                "Dutchman",
+                "Prosperous",
+                "Akuma",
+                "Omega",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "maeve",
+            "skins": [
+                "Cat Burglar",
+                "Street Justice",
+                "Rogue's Gambit",
+                "Default",
+                "Vagrant",
+                "Alley Cat",
+                "Dreamhack",
+                "Strike",
+                "Demonette",
+                "Street Style",
+                "Merrymaker",
+                "Raeve",
+                "Pirate's Treasure",
+                "Eight Oceans",
+                "Emerald Bandit",
+                "Temple Raider",
+                "Cammie",
+                "Schoolyard",
+                "Study Hall",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "lillith",
+            "skins": [
+                "Maelstrom of Carnage",
+                "Murderous Intent",
+                "Default",
+                "Wicked Hex",
+                "Sun Born",
+                "Stellar Witch",
+                "Heartless Pharaoh",
+                "Weaver Reborn",
+                "Golden"
+            ]
+        },
+        {
+            "name": "lian",
+            "skins": [
+                "Alacrity",
+                "Eminence",
+                "Precision",
+                "Default",
+                "Dusk",
+                "Goddess",
+                "High Elf",
+                "Galactic Scion",
+                "Merrymaker",
+                "Shore Patrol",
+                "Beach Bash",
+                "Dark Monarch",
+                "Death-Goddess",
+                "Eternal Conflict",
+                "Dark Conflict",
+                "Soulweaver",
+                "Death Mage",
+                "Golden"
+            ]
+        },
+        {
+            "name": "lex",
+            "skins": [
+                "Discovery",
+                "Heroism",
+                "Death Hastens",
+                "Default",
+                "Lawbringer",
+                "Croakie",
+                "Longboard",
+                "Sarrada",
+                "L-Exo Suit",
+                "Renegade",
+                "Covert Ops",
+                "Bounty Hunter",
+                "Headhunter",
+                "Yasamin",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "koga",
+            "skins": [
+                "First",
+                "Second",
+                "First",
+                "Second",
+                "Adrenaline Junkie",
+                "Blood Reaper",
+                "Dragon Fangs",
+                "Default",
+                "Exile",
+                "Prototype",
+                "Omega",
+                "Shore Patrol",
+                "Beach Bash",
+                "Eternal Retribution",
+                "Dark Retribution",
+                "Bossfight",
+                "Bloody Bakemono",
+                "Golden"
+            ]
+        },
+        {
+            "name": "kinessa",
+            "skins": [
+                "Steady Aim",
+                "Reposition",
+                "Eagle Eye",
+                "Default",
+                "Atomic",
+                "Cutthroat",
+                "Chillweave Beanie Hat",
+                "Viking",
+                "Nova Strike",
+                "Star Silver",
+                "Battlesuit Eagle Eye",
+                "Shore Patrol",
+                "Beach Bash",
+                "Valentina",
+                "Dunestrider",
+                "Golden"
+            ]
+        },
+        {
+            "name": "khan",
+            "skins": [
+                "Lian's Shield",
+                "Storm of Bullets",
+                "Vortex Grip",
+                "Default",
+                "Royal Guard",
+                "Ameri-Khan",
+                "Overlord",
+                "Mixer",
+                "Safecracker",
+                "Saboteur",
+                "Draconic Enforcer",
+                "Ironscale",
+                "Eternal Guardian",
+                "Dark Guardian",
+                "Justin OH",
+                "VIP Justin OH",
+                "Golden"
+            ]
+        },
+        {
+            "name": "kasumi",
+            "skins": [
+                "Spirit Bombs",
+                "Unfinished Business",
+                "Default",
+                "Evil Spirit",
+                "Spirited",
+                "Lovestruck",
+                "Golden"
+            ]
+        },
+        {
+            "name": "jenos",
+            "skins": [
+                "Luminary",
+                "Binary Star",
+                "The Power Cosmeum",
+                "Default",
+                "Millennium",
+                "Resplendent",
+                "Eclipse",
+                "Ghoulish Goalie",
+                "Squidbert",
+                "Exarch",
+                "Gentleman",
+                "Soul Eater",
+                "Remix",
+                "Mernos",
+                "Eternal Fervor",
+                "Dark Fervor",
+                "Aspirant",
+                "Golden"
+            ]
+        },
+        {
+            "name": "io",
+            "skins": [
+                "Life Link",
+                "Goddess' Blessing",
+                "Sacrifice",
+                "Default",
+                "Feral",
+                "Starfall",
+                "Pirate's Treasure",
+                "Eight Oceans",
+                "Stellar Protector",
+                "Salt",
+                "Corrupted",
+                "Frozen Moon",
+                "Golden"
+            ]
+        },
+        {
+            "name": "inara",
+            "skins": [
+                "Mother's Grace",
+                "Tremors",
+                "Treacherous Ground",
+                "Default",
+                "Sunstone",
+                "Ice Walker",
+                "Iron Madam",
+                "Digitized",
+                "Stellar Sentinel",
+                "Lady Liberty",
+                "Defragged",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "imani",
+            "skins": [
+                "Splitting Ice",
+                "Pyromania",
+                "Mana Rift",
+                "Default",
+                "Warder",
+                "Snowdrift",
+                "Omega",
+                "Steel Forged",
+                "Dragon Forged",
+                "Stellar Sorceress",
+                "E-Mani",
+                "Genesis",
+                "Yang Xiao Long",
+                "Golden"
+            ]
+        },
+        {
+            "name": "grover",
+            "skins": [
+                "Rampant Blooming",
+                "Ferocity",
+                "Deep Roots",
+                "Default",
+                "Autumn",
+                "Blightbark",
+                "Winter",
+                "Rosebud Canopy",
+                "Frosty Foliage",
+                "Doom Shroom",
+                "GR0B0T",
+                "Soul Briar",
+                "Seeping Corruption",
+                "Golden"
+            ]
+        },
+        {
+            "name": "grohk",
+            "skins": [
+                "Alpha Bio",
+                "Totemic Ward",
+                "Spirit's Domain",
+                "Maelstrom",
+                "Default",
+                "Beast",
+                "Tribesman",
+                "Grohk Lobster",
+                "Brimstone",
+                "Neon Demon",
+                "Chieftain",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "furia",
+            "skins": [
+                "Cherish",
+                "Exterminate",
+                "Solar Blessing",
+                "Default",
+                "Iron Maiden",
+                "Coldsnap",
+                "Aurora",
+                "Battlesuit Angel",
+                "Solfire",
+                "Dragonslayer",
+                "Soul-Stealer",
+                "Weiss Schnee",
+                "Golden"
+            ]
+        },
+        {
+            "name": "fernando",
+            "skins": [
+                "Alpha Bio",
+                "Aegis",
+                "Scorch",
+                "Formidable",
+                "Default",
+                "Daring",
+                "Onslaught",
+                "Old Glory",
+                "Tough Cookie",
+                "Invitational",
+                "FN-01 Helios",
+                "FN-01 Erebos",
+                "God of War",
+                "Enforcer",
+                "Knightmare",
+                "Sanguine",
+                "Digitized",
+                "Shore Patrol",
+                "Beach Bash",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "evie",
+            "skins": [
+                "Over the Moon",
+                "Snow Globe",
+                "Wormhole",
+                "Default",
+                "Evocation",
+                "Black Ice",
+                "Star Glam",
+                "Troublemaker",
+                "Merrymaker",
+                "Bewitching",
+                "Sweet Shop",
+                "Toothache",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "drogoz",
+            "skins": [
+                "Old Official Bio",
+                "Combustible",
+                "Fusillade",
+                "W.Y.R.M. Jets",
+                "Default",
+                "Tyrant",
+                "HRX 2018",
+                "Dreadhunter",
+                "Terrormorph",
+                "DZ-03 Draco",
+                "Abyssal Lord",
+                "Pyre Warrior",
+                "Freegle",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "zhin",
+            "skins": [
+                "Old Official Bio",
+                "Guillotine",
+                "Yomi",
+                "Smolder",
+                "Default",
+                "Nomad",
+                "Ebon Star",
+                "Demon Slayer",
+                "Conqueror",
+                "Omega",
+                "Underkeeper",
+                "Forest Stalker",
+                "Kazu",
+                "Mei",
+                "Nova Mei",
+                "Golden"
+            ]
+        },
+        {
+            "name": "corvus",
+            "skins": [
+                "Stunning Visage",
+                "Spreading Influence",
+                "Default",
+                "Exemplar",
+                "Abyssal Acolyte",
+                "Pyre-Lord Magnus",
+                "Count",
+                "Midnight Royal",
+                "Qrow Branwen",
+                "Golden"
+            ]
+        },
+        {
+            "name": "cassie",
+            "skins": [
+                "Alpha Bio",
+                "Exaction",
+                "Impulse",
+                "Big Game",
+                "Default",
+                "Coral",
+                "Northern Watch",
+                "Timber",
+                "Tinder",
+                "Night Bane",
+                "Blood Moon",
+                "Sun Kissed",
+                "Copacabana",
+                "Dune Crawler",
+                "Dragoncaller",
+                "WHIPPED CREAM",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "caspian",
+            "skins": [
+                "Everywhere At Once",
+                "It's Got Some Heft",
+                "Default",
+                "Free Spirit",
+                "Change of Heart",
+                "Skull and Bones",
+                "Pride of the Realm",
+                "Long Live the King",
+                "Golden"
+            ]
+        },
+        {
+            "name": "buck",
+            "skins": [
+                "Ensnare",
+                "Bulk Up",
+                "Bounce House",
+                "Default",
+                "Summit",
+                "Commando",
+                "Brawler",
+                "Envy",
+                "Triggerman",
+                "Kingpin",
+                "Buck Wild",
+                "Buckules",
+                "Ripjaw",
+                "Great Orange",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "Bomb_King",
+            "skins": [
+                "Chain Reaction",
+                "Royal Subjects",
+                "Accelerant",
+                "Default",
+                "Monarch",
+                "Biz-King",
+                "Pumpking",
+                "A-bomb-inable",
+                "Twitch Prime King",
+                "Love Machine",
+                "Digitized",
+                "Honey King",
+                "Polar Bear",
+                "Crash King 47",
+                "Crash King 48",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "Betty_La_Bomba",
+            "skins": [
+                "Controlled Fury",
+                "Gotta Bounce",
+                "Default",
+                "Royal Explosive",
+                "Queen of Diamonds",
+                "Dragonette",
+                "Golden"
+            ]
+        },
+        {
+            "name": "barik",
+            "skins": [
+                "Alpha Bio",
+                "Forgefire",
+                "Tinkerin",
+                "Fortify",
+                "Default",
+                "Foreman",
+                "Stone-Cut",
+                "Hi-Tek",
+                "Team Fortress 2",
+                "Swashbuckler",
+                "Steel Forged",
+                "Dragon Forged",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "azaan",
+            "skins": [
+                "Tempering",
+                "Eternal",
+                "Default",
+                "Kingdom's End",
+                "Forgemaster",
+                "Dark Drake",
+                "Golden"
+            ]
+        },
+        {
+            "name": "atlas",
+            "skins": [
+                "Temporal Divide",
+                "Deja Vu",
+                "Default",
+                "Chronomancer",
+                "Last Hope",
+                "Legionnaire",
+                "Corrupted",
+                "Vile",
+                "Golden"
+            ]
+        },
+        {
+            "name": "seris",
+            "skins": [
+                "Soul Collector",
+                "Mortal Reach",
+                "Agony",
+                "Default",
+                "Taboo",
+                "Parasite",
+                "Infernal",
+                "Divine",
+                "Madame",
+                "Jade Priestess",
+                "Cottontail",
+                "Expo 2018",
+                "Remix",
+                "Stellar Mender",
+                "Salem",
+                "Doom Bringer",
+                "Flame Bringer",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "Sha_Lin",
+            "skins": [
+                "Desert Silence",
+                "Recurve",
+                "Sand Trap",
+                "Default",
+                "Bravado",
+                "Burrito",
+                "In the Bag",
+                "Vigilante",
+                "Guardian",
+                "Crime Fighter",
+                "Outlaw",
+                "Omega",
+                "Golden"
+            ]
+        },
+        {
+            "name": "skye",
+            "skins": [
+                "Alpha Bio",
+                "Debilitate",
+                "Smoke and Dagger",
+                "Preparation",
+                "Default",
+                "Guild",
+                "Pilot Suit",
+                "Twilight",
+                "Operative",
+                "Chrome",
+                "Heartbreaker",
+                "Kunoichi",
+                "Academic",
+                "Street Style",
+                "Temptress",
+                "Devilish",
+                "GG Magree",
+                "VIP GG Magree",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "strix",
+            "skins": [
+                "First",
+                "Second",
+                "First",
+                "Second",
+                "Nocturnal",
+                "Unauthorized Use",
+                "Crack Shot",
+                "Default",
+                "Phoenix",
+                "Raven",
+                "Coldsnap",
+                "Bad Mother Clucker",
+                "Switch",
+                "Infiltrator",
+                "Mercenary",
+                "Remix",
+                "Redux",
+                "Hustler",
+                "Swindler",
+                "Scalebane",
+                "Dragonsbane",
+                "Golden"
+            ]
+        },
+        {
+            "name": "talus",
+            "skins": [
+                "Inner Strength",
+                "Faustian Bargain",
+                "Nothing Personal",
+                "Default",
+                "Geist",
+                "Oni",
+                "Trick or Treat",
+                "Wukong",
+                "Monkey-King",
+                "Golden"
+            ]
+        },
+        {
+            "name": "terminus",
+            "skins": [
+                "Undying",
+                "Crush",
+                "Decimation",
+                "Default",
+                "Monolith",
+                "Jotunn",
+                "Abominable",
+                "Omega",
+                "Steel Forged",
+                "Cosmic Titan",
+                "Super Nova",
+                "Golden"
+            ]
+        },
+        {
+            "name": "tiberius",
+            "skins": [
+                "Tigeron's Fury",
+                "Vicious Assault",
+                "Default",
+                "Beast Slayer",
+                "Nightstalker",
+                "Tomb Keeper",
+                "Sphinx Soldier",
+                "Lifeguard",
+                "Aka Oni",
+                "Aoi Oni",
+                "Golden"
+            ]
+        },
+        {
+            "name": "torvald",
+            "skins": [
+                "Thanks, Grandpa",
+                "Direct Current",
+                "Field Study",
+                "Default",
+                "Arcanist",
+                "Grave-robber's Spoils",
+                "Clockwork",
+                "Dark Lord",
+                "Berserker",
+                "Revenant",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "tyra",
+            "skins": [
+                "Mercy Kill",
+                "Hunting Party",
+                "Burn, Monster!",
+                "Default",
+                "Alluvial",
+                "Baroness",
+                "Lotus",
+                "Dire Wolf",
+                "Red Winter",
+                "Drakefire",
+                "Archangel",
+                "Heartbreaker",
+                "Gunslinger",
+                "Bandit",
+                "Firebrand",
+                "Frostbrand",
+                "Marauder",
+                "Royal Mark",
+                "Eternal Emissary",
+                "Deathless Emissary",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "vatu",
+            "skins": [
+                "Unerring",
+                "Enveloping Shadows",
+                "Default",
+                "Sorrow",
+                "Duty",
+                "Mayhem",
+                "Abyss Cultist",
+                "Golden"
+            ]
+        },
+        {
+            "name": "VII",
+            "skins": [
+                "Overcharged",
+                "Spring Loaded",
+                "Default",
+                "Crimson Guard",
+                "Ivy Sentinel",
+                "Death Orchid",
+                "Biting Wind",
+                "Deadly Pallor",
+                "Pandemonium",
+                "Golden"
+            ]
+        },
+        {
+            "name": "viktor",
+            "skins": [
+                "Cardio",
+                "Burst Mode",
+                "Shrapnel",
+                "Default",
+                "Khaki",
+                "Ushanka",
+                "Lone Heart Patch",
+                "Charcoal",
+                "Invitational",
+                "Soldier +",
+                "Code Green Trooper",
+                "Code Green Grenadier",
+                "Code Green Bandolier",
+                "Code Green Comms",
+                "V1-KTOR",
+                "Reaver",
+                "Full Moon",
+                "Legionnaire",
+                "Draconic Fighter",
+                "Hunter's Bane",
+                "Chase",
+                "Rambo",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "vivian",
+            "skins": [
+                "Suspect Everyone",
+                "Booby Trap",
+                "Opportunity in Chaos",
+                "Default",
+                "Manipulator",
+                "Silvertongue",
+                "Full Throttle",
+                "Day Walker",
+                "Contessa",
+                "Omega",
+                "Student of Magic",
+                "Novice",
+                "Sigma",
+                "Retro",
+                "Golden"
+            ]
+        },
+        {
+            "name": "vora",
+            "skins": [
+                "Deafening Silence",
+                "Unyielding Pressure",
+                "Default",
+                "Herald",
+                "Seal Guardian",
+                "Honor Guard",
+                "Galactic Conqueror",
+                "Ruby Rose",
+                "Golden"
+            ]
+        },
+        {
+            "name": "willo",
+            "skins": [
+                "Nightshade",
+                "Blastflower",
+                "Scorn",
+                "Default",
+                "Bluebell",
+                "Viceroy",
+                "Jolly Holly",
+                "Hemlock",
+                "Firecracker",
+                "Sugar Plum",
+                "Will.0",
+                "Yellow Jacket",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        },
+        {
+            "name": "yagorath",
+            "skins": [
+                "Second",
+                "First",
+                "Second",
+                "First",
+                "Second",
+                "Corrosive Acid",
+                "Primal Vision",
+                "Unnatural Persistance",
+                "Default",
+                "Grave Worm",
+                "Caustic",
+                "Leviathan",
+                "Cuddly",
+                "Golden"
+            ]
+        },
+        {
+            "name": "ying",
+            "skins": [
+                "Focusing Lens",
+                "Life Exchange",
+                "Resonance",
+                "Default",
+                "Seer",
+                "Snapdragon",
+                "Quicksilver",
+                "Convention 2017",
+                "Genie",
+                "Replicant",
+                "Carnival",
+                "Death Speaker",
+                "Banshee",
+                "Street Style",
+                "Mermaid",
+                "Siren",
+                "Divine Daughter",
+                "High Priestess",
+                "Full Dive",
+                "Rezzed",
+                "Jurassic",
+                "Obsidian",
+                "Cosmic",
+                "Golden"
+            ]
+        }
+    ]
+}
